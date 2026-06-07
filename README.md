@@ -1,8 +1,8 @@
 # Heitor-Villachan
-<h1 align="center"> Heitor Villa-chan </h1>
+<h1 align="center"> Hello World! </h1>
 
 <p align="center">
-Estudante de Ciência da Computação na CESAR School. Neste perfil você encontrará os projetos, desafios e conhecimentos que venho desenvolvendo ao longo do curso
+  Neste perfil você encontrará os projetos, desafios e conhecimentos que venho desenvolvendo ao longo da minha jornada
 </p>
 
 
